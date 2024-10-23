@@ -45,7 +45,7 @@ Las siguientes herramientas se utilizaron en este proyecto:
 - [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- [Netlify Drop](https://www.netlify.com/products/drop/)
+- [Netlify Drop](https://app.netlify.com/drop)
 - [Ninja Keys](https://www.ninja-keys.com/)
 
 ## :white_check_mark: Requirements ##
