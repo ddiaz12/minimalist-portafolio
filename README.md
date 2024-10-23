@@ -67,7 +67,9 @@ $ git clone https://github.com/ddiaz12/minimalist-portafolio
 $ cd minimalist-portafolio
 
 # Instala las dependencias
-$ npm install
+$ npm install -g pnpm
+
+$ pnpm install
 
 # Inicia el proyecto
-$ npm run dev
+$ pnpm run dev
