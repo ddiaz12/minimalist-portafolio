@@ -1,54 +1,69 @@
-# Astro Starter Kit: Basics
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Minimalist Portafolio" />
 
-```sh
-npm create astro@latest -- --template basics
-```
+  &#xa0;
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+  <!-- <a href="https://minimalistportafolio.netlify.app">Demo</a> -->
+</div>
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+<h1 align="center">Minimalist Portafolio</h1>
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/minimalist-portafolio?color=56BEB8">
 
-## 🚀 Project Structure
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/minimalist-portafolio?color=56BEB8">
 
-Inside of your Astro project, you'll see the following folders and files:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/minimalist-portafolio?color=56BEB8">
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/minimalist-portafolio?color=56BEB8">
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/minimalist-portafolio?color=56BEB8" /> -->
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/minimalist-portafolio?color=56BEB8" /> -->
 
-Any static assets, like images, can be placed in the `public/` directory.
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/minimalist-portafolio?color=56BEB8" /> -->
+</p>
 
-## 🧞 Commands
+<!-- Status -->
 
-All commands are run from the root of the project, from a terminal:
+<!-- <h4 align="center"> 
+	🚧  Minimalist Portafolio 🚀 Under construction...  🚧
+</h4> 
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+<hr> -->
 
-## 👀 Want to learn more?
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+</p>
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+<br>
+
+## :dart: About ##
+
+Describe your project
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+&#xa0;
+
+<a href="#top">Back to top</a>
