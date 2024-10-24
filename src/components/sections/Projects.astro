@@ -91,4 +91,31 @@ import { projects } from  "@cv";
         padding: 0.2rem 0.6rem;
     }
 
+    footer span:hover{
+        background: #d3d3d3;
+    }
+
+/* Agrega estas reglas para el modo oscuro */
+    :global(.dark) article {
+        border: 1px solid #444;
+        background-color: #333;
+    }
+
+    :global(.dark) article a {
+        color: white;
+    }
+
+    :global(.dark) article p,
+    :global(.dark) article h3,
+    :global(.dark) footer span {
+        color: white;
+    }
+
+    :global(.dark) footer span {
+        background: #555;
+    }
+
+    :global(.dark) footer span:hover {
+        background: #666;
+    }
 </style>

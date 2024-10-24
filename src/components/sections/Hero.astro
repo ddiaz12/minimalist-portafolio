@@ -46,7 +46,8 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' * ')
                         >
                             <Mail />
                         </a>
-                    )
+                        <span class="text">{email}</span>
+                    ) 
                 }
 
                 {
@@ -150,5 +151,23 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' * ')
     footer a:hover{
         background: #d3d3d3;
         border: 1px solid #ccc;
+    }
+
+        /* Agrega estas reglas para el modo oscuro */
+    :global(.dark) h1,
+    :global(.dark) h2,
+    :global(.dark) span,
+    :global(.dark) footer {
+        color: white; /* Cambia el color del texto a blanco en modo oscuro */
+    }
+
+    :global(.dark) footer a {
+        color: white;
+        border: 1px solid #555;
+    }
+
+    :global(.dark) footer a:hover {
+        background: #666;
+        border: 1px solid #444;
     }
 </style>
