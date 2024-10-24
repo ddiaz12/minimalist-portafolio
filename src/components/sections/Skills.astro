@@ -3,28 +3,21 @@ import Section from "../Section.astro"
 import HTML from "@/icons/html.astro"
 import CSS from "@/icons/css.astro"
 import JavaScript from "@/icons/javascript.astro"
-import React from "@/icons/react.astro"
-import Node from "@/icons/node.astro"
 import MySQL from "@/icons/sql.astro"
 import Git from "@/icons/git.astro"
 import GitHub from "@/icons/GitHub.astro"
-import Next from "@/icons/next.astro"
+import Python from "@/icons/python.astro"
+import Astros from "@/icons/astro.astro"
 import { skills } from "@cv"
-import Kotlin from "@/icons/kotlin.astro"
-import Flutter from "@/icons/flutter.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
-  HTML,
-  CSS,
-  JavaScript,
-  React,
-  Node,
-  MySQL,
-  Git,
-  GitHub,
-  Next,
-  Kotlin,
-  Flutter,
+    HTML,
+    CSS,
+    JavaScript,
+    MySQL,
+    Git,
+    GitHub,
+    Python,
 }
 ---
 
@@ -32,7 +25,7 @@ const SKILLS_ICONS: Record<string, any> = {
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
+        const iconName = name
         const Icon = SKILLS_ICONS[iconName]
 
         return (

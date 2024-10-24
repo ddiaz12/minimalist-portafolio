@@ -169,6 +169,34 @@
                 "Código Fuente",
                 "Git"
             ]
+        },
+        {
+            "name": "Python",
+            "level": "",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Astro",
+            "level": "",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Codeigniter",
+            "level": "",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "APIs",
+            "level": "",
+            "keywords": [
+            ]
         }
     ],
     "languages": [
