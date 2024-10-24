@@ -1,61 +1,40 @@
 {
     "basics": {
-        "name": "Juna Doe",
+        "name": "Diego Rodolfo Diaz Morfin",
         "label": "Full Stack Developer ",
-        "image": "https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Bengal-Cat.jpg?itok=iVh6G_Ef",
-        "email": "miduga@gmail.com",
-        "phone": "+34 688888888",
+        "image": "/fondo.webp",
+        "email": "rdiazmorfin@gmail.com",
+        "phone": "312 19604561",
         "url": "#",
-        "summary": "Desarrollador Web. ",
+        "summary": "Soy un recién egresado de la carrera Ingeniería Informática con experiencia en el desarrollo web. Me apasiona la programación y la tecnología, y busco oportunidades para aplicar mis conocimientos en proyectos innovadores. Dispuesto a aprender nuevas tecnologías para seguir creciendo profesionalmente.",
         "location": {
             "address": "",
             "postalCode": "00000",
-            "city": "el Prat de Llobregat",
-            "countryCode": "ES",
+            "city": "Colima",
+            "countryCode": "",
             "region": "Mexico"
         },
         "profiles": [
             {
                 "network": "LinkedIn",
                 "username": "#",
-                "url": "#"
+                "url": "https://www.linkedin.com/in/rodolfo-diaz-morfin-46660529b/"
             },
             {
                 "network": "GitHub",
                 "username": "#",
-                "url": "#"
+                "url": "https://github.com/ddiaz12"
             }
         ]
     },
     "work": [
         {
-            "name": "midudev",
+            "name": "Sistema Web de Registro Estatal de Regulaciones (RER)",
             "position": "Programación Web",
             "url": "#",
-            "startDate": "2021-01-01",
-            "endDate": null,
-            "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-            "highlights": [
-                "Started the company"
-            ]
-        },
-        {
-            "name": "Adevinta",
-            "position": "Lead Frontend Architect",
-            "url": "#",
-            "startDate": "2016-06-01",
-            "endDate": "2022-09-01",
-            "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-            "highlights": [
-                "Started the company"
-            ]
-        },
-        {
-            "name": "Hubii",
-            "position": "Senior FrontEnd Developer",
-            "startDate": "2011-03-01",
-            "endDate": "2016-05-01",
-            "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+            "startDate": "2025-01-01",
+            "endDate": "2024-06-01",
+            "summary": "El Registro Estatal de Regulaciones (RER) fue un proyecto que desarrollé durante mi residencia profesional para el Gobierno del Estado de Colima. Esta plataforma web está diseñada para digitalizar y centralizar el registro de regulaciones estatales, facilitando tanto su consulta como su gestión por parte de ciudadanos y funcionarios. El sistema permite a las instituciones registrar y actualizar normativas de manera eficiente, brindando a los usuarios acceso a la información de forma transparente.",
             "highlights": [
                 "Started the company"
             ]
@@ -76,15 +55,15 @@
     ],
     "education": [
         {
-            "institution": "Universitat Oberta de Catalunya",
-            "url": "https://www.uoc.edu/portal/es/index.html",
-            "area": "Ingeniero de Software",
-            "studyType": "Bachelor",
-            "startDate": "2003-01-01",
-            "endDate": "2009-01-01",
-            "score": "4.0",
+            "institution": "Instituto Tecnológico de Colima",
+            "url": "",
+            "area": "Ingenieria informatica",
+            "studyType": "",
+            "startDate": "2020-01-01",
+            "endDate": "2025-01-01",
+            "score": "",
             "courses": [
-                "DB1101 - Basic SQL"
+                ""
             ]
         }
     ],
@@ -226,66 +205,47 @@
     ],
     "projects": [
         {
-            "name": "mars.codes",
-            "isActive": true,
-            "description": "Historia interactiva con retos de programación para viajar a Marte",
+            "name": "Registro Estatal de Regulaciones (RER)",
+            "description": "El RER es una plataforma web diseñada para digitalizar y centralizar el registro de regulaciones estatales, facilitando su consulta y gestión por parte de los ciudadanos y funcionarios. ",
             "highlights": [
-                "Elige tu propia aventura",
+                "CODEIGNITER 3",
+                "MySQL",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Boostrap",
                 "En desarrollo"
             ],
-            "url": "https://mars.codes"
+            "url": "https://github.com/ddiaz12/code"
         },
         {
-            "name": "AdventJS",
+            "name": "Portafolio minimalista",
             "isActive": true,
-            "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+            "description": "Portafolio minimalista configurable via JSON",
             "highlights": [
-                "+1 millón de visitas",
-                "Multidioma",
-                "JavaScript & TypeScript"
+                "Astro",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "JSON",
+                "Ninja Keys",
+                "jsonresume"
             ],
-            "url": "https://adventjs.dev"
+            "url": "https://github.com/ddiaz12/minimalist-portafolio"
         },
         {
-            "name": "Codember",
-            "isActive": true,
-            "description": "Juego interactivo de programación con retos y secretos",
+            "name": "Challenge encriptador de texto ",
+            "description": "Este proyecto es una aplicación web simple que permite cifrar y descifrar textos utilizando un sistema de reemplazo de caracteres específico. Además, incluye funciones para copiar el texto cifrado o descifrado al portapapeles y validar la entrada del usuario.",
             "highlights": [
-                "+2000 usuarios activos",
-                "Retos para cualquier lenguaje"
+                "Encriptación",
+                "Desencriptación",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Alura LATAM",
+                "Oracle"
             ],
-            "url": "https://codember.dev"
-        },
-        {
-            "name": "codi.link",
-            "isActive": true,
-            "description": "Playground de código HTML, CSS y JavaScript para compartir",
-            "highlights": [
-                "100k visitas al mes",
-                "Desarrollado por la comunidad"
-            ],
-            "url": "https://codi.link",
-            "github": "#"
-        },
-        {
-            "name": "Pruebas Técnicas",
-            "isActive": true,
-            "description": "Lista de pruebas técnicas de empresas para practicar programación",
-            "highlights": [
-                "100% gratuito",
-                "+500 soluciones de la comunidad"
-            ],
-            "url": "https://pruebastecnicas.com",
-            "github": "#"
-        },
-        {
-            "name": "miduConf",
-            "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-            "highlights": [
-                "+15k tickets repartidos",
-                "+50k espectadores en directo"
-            ],
-            "url": "https://miduconf.com"
+            "url": "https://ddiaz12.github.io/Challenge-encriptador-de-texto/"
         }
     ]
 }
